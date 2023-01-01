@@ -1,4 +1,5 @@
 # These are the terms and conditions of Dispatch a chat service by GoneRogue Productions
+## Please note this is an archived version view the up-to-date version [here](https://github.com/GoneRogueProductions/dispatch_policies)
 Join and chat on the popular chat service - dispatch.ml
 [View other projects by GoneRogue Productions](https://github.com/orgs/GoneRogueProductions/repositories)
 These policies should be abided.
